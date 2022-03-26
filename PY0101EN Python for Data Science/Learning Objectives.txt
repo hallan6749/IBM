@@ -9,10 +9,3 @@ The purpose of having functions in Python
 How to operate on files to read and write data in Python
 How to use pandas, a must-have package for anyone attempting data analysis in Python
 
-Learning Objectives
-After completing this section you will:
-Understand the available data types in Python
-Be familiar with Python expressions and variables
-Be able to perform basic operations on strings
-Most importantly, you will write your first bits of Python code using Jupyter notebook, the same rich environment used by thousands of data scientists, data analysts and data engineers.
-
