@@ -1,0 +1,7 @@
+Python is the Language to Learn
+
+If there was only one language...
+Python is often described as powerful, yet easy to learn. It is a general purpose programming language, yet it comes with thousands of libraries for working with data. It is often the first language people learn, yet it is the language people use decades later in their career. Python is often the first tool people grab when they need to create a quick prototype, yet it is the language that powers some of the most complex projects. The power and flexibility with thousands of libraries made Python the language of choice for data scientists, data engineers, data analysts and AI researchers in leading companies and startups alike. Python is essential for any resume and it is a must-have skill for anyone who works with data.
+
+In short, if you could only learn one programming language, Python should be the language to learn.
+
