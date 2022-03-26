@@ -1,0 +1,14 @@
+General Information
+
+A Few Things To Know About This Course
+This course is self-paced. There is no instructor to follow or to rush you along - you learn on your own schedule. This also means you are going to need to be disciplined in your studies.
+You can start it at any time and you can take as long as you need to complete it. Your place in the course will be remembered and your labs will be saved. However, we strongly recommend that you don't take prolonged breaks between lessons as the mind tends to forget what it does not practice.
+You can review the course as many times as you wish, even after completing it.
+This is a hands-on course where you will gain practical skill by doing hands-on labs. We provide a a complete virtual lab environment on the cloud that you can access from anywhere as long as you have internet connection.
+We strongly recommend that you use Chrome or Firefox browser
+You can watch videos and read course materials on a mobile device. However, you will likely need to use a computer for hands on labs as small screen size and lack of keyboard make mobile devices a poor choice for hands on labs.
+
+PREREQUISITES
+Familiarity with Jupyter Notebooks
+RECOMMENDED SKILLS PRIOR TO TAKING THIS COURSE
+Some Python programming experience
