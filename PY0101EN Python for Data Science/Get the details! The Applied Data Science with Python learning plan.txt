@@ -1,0 +1,165 @@
+https://skills.yourlearning.ibm.com/activity/PLAN-B6CBEFCA2BFD_TASK-A?planId=PLAN-B6CBEFCA2BFD&sectionId=SECTION-A
+
+https://bundles.yourlearning.ibm.com/skills/learn/#page/KXMWGQJMVYDG1026
+
+Get the details!
+The Applied Data Science with Python learning plan
+
+Is this a good match for you and your job role interests?
+Data is comprised of bits and bytes, and as humans, we are immersed in data in our everyday lives. The value that data holds can only be understood when we can start to identify patterns and trends within the data that then trigger questions to better understand the impact of our actions.
+
+Are you an aspiring data scientist who wants to learn data science hands-on?
+
+Do you want to learn how to use the Python language to clean, analyze, and visualize data?
+
+Then, this Applied Data Science with Python learning plan is for you!
+
+You will learn how to code in Python for data science, then analyze and visualize data with Python with packages like scikit-learn, matplotlib, and bokeh.
+There are guided lectures and labs to provide you with hands-on experience tackling interesting data problems.
+This is an action-packed learning plan for data science enthusiasts who want to work with real-world problems using Python.
+This learning path will help you solidify your data skills in Python before diving into machine learning, big data, and deep learning in Python.
+Come along and start your learning plan of three courses to receive a series of IBM-issued badges.
+
+Applied Data Science with Python learning plan
+Recommended prerequisite: Introduction to Data Analysis (learning plan and badge)
+Level: Beginner to Intermediate
+Courses to complete: 3
+Badges you can earn: 4
+Language offered: English
+Complete these three online courses offered by IBM to earn three corresponding badges:
+
+Python for Data Science
+Data Analysis with Python
+Data Visualization with Python
+Upon completion of all three courses, you will earn the fourth and culminating Applied Data Science with Python - Level 2 badge.
+
+Note: The learning plan builds on the content learned in the first course and then builds on the concepts in the courses that follow. Please complete the courses in the order outlined in this learning plan to ensure you get the most out of your experience.
+
+About the courses and badges
+Python for Data Science
+About the course
+This course provides a beginner-friendly introduction to Python for data science. You will practice through lab exercises, and you'll create your first Python scripts on your own!
+
+The duration is 5 hours.
+
+Badge
+Earn the Python for Data Science badge issued by IBM when you complete this course.
+
+Image of the Python for Data Science badge
+
+What will you learn?
+This is a beginner-level, self-paced course that includes videos, labs, graded review questions, and a final exam.
+
+Python has become one of the top languages used not only by developers, but also by data scientists, data engineers, and researchers alike. It lends itself well to creating applications and analyzing big data.
+
+This course will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.
+
+Upon its completion, you'll be able to write your own Python scripts and perform basic hands-on data analysis using our Jupyter-based lab environment. If you want to learn Python from scratch, this course is for you.
+
+Modules
+
+Module 1: Python Basics
+Module 2: Python Data Structures
+Module 3: Python Programming Fundamentals
+Module 4: Working with Data in Python
+Module 5: Working with Numpy Arrays
+Course completion to earn the badge
+
+The minimum passing mark for the course is 70% with the following weights:
+
+50% - All review questions
+50% - The final exam
+You can find out more about obtaining completion credit in the Grading Scheme section once you launch the course.
+
+Data Analysis with Python
+About the course
+In this course, you will learn how to analyze data in Python using multi-dimensional arrays in numpy, manipulate DataFrames in pandas, use SciPy library of mathematical routines, and perform machine learning using scikit-learn! You will learn how to perform data analytics in Python using these popular Python libraries and you will do it using hands-on labs using real Python tools like Jupyter notebook in JupyterLab.
+
+The duration is 8 hours.
+
+Badge
+Earn the Data Analysis using Python badge issued by IBM when you complete this course.
+
+Image of the Data Analysis Using Python badge
+
+What will you learn?
+This is an intermediate-level, self-paced course that includes videos, labs, graded review questions, and a final exam.
+
+Learn how to analyze data using Python. This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analyses, create meaningful data visualizations, predict future trends from data, and more!
+
+You will learn how to:
+
+Import data sets
+Clean and prepare data for analysis
+Manipulate pandas DataFrame
+Summarize data
+Build machine learning models using scikit-learn
+Build data pipelines
+Modules
+
+Module 1: Introduction
+Module 2: Data Wrangling
+Module 3: Exploratory Data Analysis
+Module 4: Model Development
+Module 5: Working with Data in Python
+Course completion to earn the badge
+
+The minimum passing mark for the course is 70% with the following weights:
+
+50% - All review questions
+50% - The final exam
+You can find out more about obtaining completion credit in the Grading Scheme section once you launch the course.
+
+What should you know before taking this course?
+Prerequisites
+
+Basic skills in programing, preferably Python
+Some mathematical skills from basic university or advanced high school or  basic statistics
+Recommended skills prior to taking this course
+
+Some knowledge with Python libraries: Numpy, Pandas, and scikit-learn
+Some experience with a Jupyter notebook
+Data Visualization with Python
+About the course
+Data visualization is the graphical representation of data in order to interactively and efficiently convey insights to clients, customers, and stakeholders in general. It is a way to summarize your findings and display it in a form that facilitates interpretation and can help in identifying patterns or trends. In this course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
+
+The duration is 10 hours.
+
+Badge
+Earn the Data Visualization using Python badge issued by IBM when you complete this course.
+
+Image of the Data Visualization Using Python badge
+
+What will you learn?
+This is an intermediate-level, self-paced course that includes videos, labs, graded review questions, and a final exam.
+
+One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data will also enable you to extract information, better understand the data, and make more effective decisions.
+
+The main goal of this course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
+
+Modules
+
+Module 1: Introduction to Visualization Tools
+Module 2: Basic Visualization Tools
+Module 3: Specialized Visualization Tools
+Module 4: Extra Visualization Tools
+Module 5: Creating Maps and Visualizing Geospatial Data
+Course completion to earn the badge
+
+The minimum passing mark for the course is 70% with the following weights:
+
+50% - All review questions
+50% - The final exam
+You can find out more about obtaining completion credit in the Grading Scheme section once you launch the course.
+
+What should you know before taking this course?
+Requirement
+
+Completion of the Python for Data Science and Data Analysis with Python courses in this learning plan
+Complete this Applied Data Science with Python learning plan to earn the Applied Data Science with Python - Level 2 badge issued by IBM!
+
+Image of the Applied Data Science with Python - Level 2 badge
+
+Note: Be sure to follow the provided steps to claim the Applied Data Science with Python - Level 2 badge.
+
+ Now, return to the Applied Data Science with Python learning plan!
