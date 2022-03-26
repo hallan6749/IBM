@@ -1,8 +1,6 @@
 Learning Objectives
 The objectives of this course are to get you started with Python as a programming language and to give you a taste of how to start working with data in Python.
-
 In this course you will learn about:
-
 What is Python and why it is useful
 The application of Python 
 How to define variables
@@ -10,3 +8,11 @@ Sets and conditional statements in Python
 The purpose of having functions in Python
 How to operate on files to read and write data in Python
 How to use pandas, a must-have package for anyone attempting data analysis in Python
+
+Learning Objectives
+After completing this section you will:
+Understand the available data types in Python
+Be familiar with Python expressions and variables
+Be able to perform basic operations on strings
+Most importantly, you will write your first bits of Python code using Jupyter notebook, the same rich environment used by thousands of data scientists, data analysts and data engineers.
+
